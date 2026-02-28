@@ -1,0 +1,22 @@
+# build artifacts
+build/
+out/
+output/
+bin/
+lib/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+compile_commands.json
+install_manifest.txt
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# temp
+TEMP/
+*.log
